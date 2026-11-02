@@ -1,8 +1,8 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: MANIKANDAN M
-<h3>Register Number: 212224040183
+<h3>Name: DEEPAK
+<h3>Register Number: 212223040031
   
-## Date: 27/10/2026
+
 
 <h3>AIM:</h3>
 <br>
